@@ -1,6 +1,7 @@
 # Class Schedules Package
 
-## Version v.1.0.0 (In Development)
+## Version
+v.1.0.0 (In Development)
 
 ### Description
 The **Class Schedules** package provides a comprehensive solution for managing schedules within a web application. It facilitates the creation, edition, and management of class schedules, making it an ideal choice for organizations or individual entrepreneurs looking to streamline the planning and organization of events or classes.
